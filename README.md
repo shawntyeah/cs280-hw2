@@ -5,7 +5,7 @@ Name:  student ID:
 **Please write your Chinese name and your student ID in this README**.
 
 ## Deadline
-**November 6, 2019, 23:59 UTC+8**
+**November 5, 2019, 23:59 UTC+8**
 
  **Please write your Chinese name and your student ID in README**.
 
