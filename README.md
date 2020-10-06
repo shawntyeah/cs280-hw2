@@ -1,6 +1,6 @@
 # Homework2
 
-Name:  student ID: 
+Name:  董金昕student ID:2019233147 
 
 **Please write your Chinese name and your student ID in this README**.
 
